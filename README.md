@@ -31,4 +31,4 @@ This is a project where I build a recommendation system for a movie dataset
 
 *algorithm used: decision tree regressor, random forest regressor, extra tree,svr
 
-* I used pyhton to bulid this model
+* I used python to bulid this model

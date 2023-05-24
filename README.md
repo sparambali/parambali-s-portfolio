@@ -33,14 +33,6 @@ This is a project where I build a recommendation system for a movie dataset
 
 * I used python to bulid this model
 
-# Personal roadmap
- # Background
- I have done my bachelors in Electronics and telecommunication Engineering. I choose this field because since my childhood I was surrounded by transistor, capacitor and many other electronics devices. I am very fascinated with electronics devices at that time. After my engineering I worked in IT company namley Acer computers. In this company I got to know about data . I become aware how much data is useful for the organisation to operate  in decision making and become successful.I think in future, there will be data revolution as third revolution like first first revolution and second revolution .
-# current state
-Currently, I am pursing graduate certificate course in DURHAM college ON. The second  semester is about to end.In the second  semester, we had six different courses, which made us to learn and use the tools which are taught comprehensively. Now I can extract,transform and visualise data using  tabluea, power BI , R, Pyhton, my sql, github etc. 
-# future plan
-I am going to prusue another course this january in artificial intelligence as I am very interested in coding and different algorithm used in the machine learning. Further this course add to my skill set.Finally, after completing this course I will try to find in any organisation as data analyst.
-# [roadmap]
-![image](https://user-images.githubusercontent.com/109612269/206715967-9a88f1ad-92d1-4fff-a7b8-f063dfa7b15a.png)
+
 
 

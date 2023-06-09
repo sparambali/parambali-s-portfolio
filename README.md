@@ -25,7 +25,7 @@ This is a project where I build a recommendation system for a movie dataset
 
 # [project 3 : Recommending customer to premium insurance](https://github.com/sparambali/capstone-project1)
 
-*dataset was taken from kaggle
+*dataset was taken from  kaggle
 
 *The main idea behind this project is to showcase the potential clients for the company
 

@@ -1,6 +1,6 @@
 # Paramvir's portfolio
 
-# [project 1: Laptop price predictor](https://github.com/sparambali/laptop-price-predictor)
+# [Project 1: Laptop price predictor](https://github.com/sparambali/laptop-price-predictor)
 
 * This is a project where I build model to predict the price of the different laptop based on different features like RAM, ips panel,storage size, touch screen, processor etc
 
@@ -11,7 +11,7 @@
 * I used python to bulid this model
 
 
-# [project 2: Movie Recommendation system](https://github.com/sparambali/movie-recommending-system)
+# [Project 2: Movie Recommendation system](https://github.com/sparambali/movie-recommending-system)
 
 * This is a project where I build a recommendation system for  movie dataset
 
@@ -23,7 +23,7 @@
 
 * I  used python languge to visualise the dataset and build the model
 
-# [project 3 : Recommending customer to premium insurance](https://github.com/sparambali/capstone-project1)
+# [Project 3 : Recommending customer to premium insurance](https://github.com/sparambali/capstone-project1)
 
 * Dataset was taken from  kaggle
 

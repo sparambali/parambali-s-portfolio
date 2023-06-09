@@ -13,7 +13,7 @@
 
 # [project 2: Movie Recommendation system](https://github.com/sparambali/movie-recommending-system)
 
-* This is a project where I build a recommendation system for a movie dataset
+* This is a project where I build a recommendation system for  movie dataset
 
 * Data was taken from tmdb-database
 

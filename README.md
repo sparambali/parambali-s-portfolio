@@ -42,7 +42,7 @@
 
 * I used several tools to identify potential clients. We  used tools like excel, python to identify the potential clients and to identify the opportunities for growth for the insurance company.
 
-* I used Power Bi  for visualisation to analyse the datase and  python to answer the number of questions and for prediction.
+* I used Power Bi  for visualisation of the dataset and  python to build the models.
 
 # [Project 5 : Choosing the best model to predict whether a client will keep a particular subscription or not](https://github.com/sparambali/wireless-churn-prediction)
 

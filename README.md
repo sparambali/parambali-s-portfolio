@@ -10,7 +10,7 @@
 
 * I used python to bulid this model
 
-# [Project 2: Tensorflow embedding to covert textual column encapsulate the underlying semantics and structure of the text, which  can be used for numerous machine learning tasks](https://github.com/sparambali/Tensorflow-embedding-to-convert-text-column-into-numerical)
+# [Project 2: Tensorflow embedding to covert textual column to encapsulate the underlying semantics and structure of the text, which  can be used for numerous machine learning tasks](https://github.com/sparambali/Tensorflow-embedding-to-convert-text-column-into-numerical)
 
 * In this project I have used titanic dataset which I downloaded from Kaggle.
 

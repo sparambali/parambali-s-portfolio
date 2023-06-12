@@ -10,7 +10,7 @@
 
 * I used python to bulid this model
 
-# [Project 2: Tensorflow embedding to covert textual column to encapsulate the underlying semantics and structure of the text, which  can be used for numerous machine learning tasks](https://github.com/sparambali/Tensorflow-embedding-to-convert-text-column-into-numerical)
+# [Project 2: Tensorflow embedding to encapsulate the underlying semantics and structure of the text, which  can be used for numerous machine learning tasks](https://github.com/sparambali/Tensorflow-embedding-to-convert-text-column-into-numerical)
 
 * In this project I have used titanic dataset which I downloaded from Kaggle.
 
@@ -43,6 +43,23 @@
 * I used several tools to identify potential clients. We  used tools like excel, python to identify the potential clients and to identify the opportunities for growth for the insurance company.
 
 * I used Power Bi  for visualisation to analyse the datase and  python to answer the number of questions and for prediction.
+
+# [Project 5 : Choosing the best model to predict whether a client will keep a particular subscription or not](https://github.com/sparambali/wireless-churn-prediction)
+
+* Conduct Exploratory Data Analysis (EDA) using pandas-profiling to help identify key insights found in the dataset.
+ 
+* Remove outliers using Isolation Forest
+
+* Created Learning Curves for both algorithms (Logical Regression and Naïve Bayes).
+
+* Created one  Ensemble Voting Model, to predict the proper classification, which includes: Logistical Regression,Boosting Technique (Bagging)
+
+*  Finally choosing the best algorithm
+
+
+
+
+
 
 
 
